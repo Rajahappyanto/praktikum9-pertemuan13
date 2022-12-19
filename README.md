@@ -4,10 +4,10 @@ kelas: TI.22.A2
 NIM  : 312210235
 ```
 # Pertemuan 13
- ## Exception Handling
+ ## penanganan exception
  - Exception (eksepsi) merupakan suatu kesalahan (error) yang terjadi saat proses eksekusi program sedang berjalan,
  - Kesalahan ini akan menyebabkan program berakhir dengan tidak normal.
-## Handling
+## penanganan
 - Penanganan file adalah bagian penting dari aplikasi apa pun.
 ## Assertion
 Assertion(pernyataan) adalah kewajaran program yang kamu bisa aktif/nonaktifkan ketika kamu selesai menjalankan program.
